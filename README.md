@@ -5,9 +5,9 @@ Sistema de repositorio para mantener contexto y continuidad en conversaciones co
 ## 📁 Archivos Actuales
 
 ### Mensajes e Intercambios
-- [00_Mensajes](https://raw.githubusercontent.com/m4bich0/Proy01/main/00_Mensajes) - Intercambio de mensajes Vicente/Tania (julio-septiembre 2025)
-- [01_Cartas](https://raw.githubusercontent.com/m4bich0/Proy01/main/01_Cartas) - Correspondencia y cartas
-- [02_Articulo](https://raw.githubusercontent.com/m4bich0/Proy01/main/02_Articulo) - Artículo o documento de análisis
+- [00_Mensajes](https://raw.githubusercontent.com/m4lbich0/Proy01/refs/heads/main/00_Mensajes) - Intercambio de mensajes Vicente/Tania (julio-septiembre 2025)
+- [01_Cartas](https://raw.githubusercontent.com/m4lbich0/Proy01/refs/heads/main/01_Cartas) - Correspondencia y cartas
+- [02_Articulo](https://raw.githubusercontent.com/m4lbich0/Proy01/refs/heads/main/02_Articulo) - Artículo o documento de análisis
 
 ### Conversaciones Claude (Serie 03.XX)
 - [03.01_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.01_Claude)
