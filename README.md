@@ -20,8 +20,6 @@ Sistema de repositorio para mantener contexto y continuidad en conversaciones co
 - [03.08_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.08_Claude)
 - [03.09_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.09_Claude)
 - [03.10_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.10_Claude)
-
-### Conversaciones Claude (Serie 03.1X)
 - [03.11_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.11_Claude)
 - [03.12_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.12_Claude)
 - [03.13_Claude](https://raw.githubusercontent.com/m4bich0/Proy01/main/03.13_Claude)
