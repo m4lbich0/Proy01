@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "archivo_origen": "251004 Mensajes - Sin nombre_depurado para claude.csv",
+    "total_mensajes": 86009,
+    "periodo_completo": "2023-07-31 a 2025-10-04",
+    "meses_con_datos": 28,
+    "descripcion": "Índice para localizar conversaciones por mes. Use 'filas_csv' para extraer rangos específicos del CSV original."
+  },
+  "indice_mensual": [
+    {
+      "periodo": "2023-07",
+      "total_mensajes": 309,
+      "filas_csv": "2-310",
+      "vicente_mensajes": 192,
+      "tania_mensajes": 117,
+      "fecha_inicio": "2023-07-31 10:16:17",
+      "fecha_fin": "2023-07-31 21:21:42"
+    },
+    {
+      "periodo": "2023-08",
+      "total_mensajes": 9716,
+      "filas_csv": "311-10026",
+      "vicente_mensajes": 5367,
+      "tania_mensajes": 4349,
+      "fecha_inicio": "2023-08-01 05:48:52",
+      "fecha_fin": "2023-08-31 20:23:19"
+    },
+    {
+      "periodo": "2023-09",
+      "total_mensajes": 9802,
+      "filas_csv": "10027-19828",
+      "vicente_mensajes": 5654,
+      "tania_mensajes": 4148,
+      "fecha_inicio": "2023-09-01 07:45:04",
+      "fecha_fin": "2023-09-30 20:37:52"
+    },
+    {
+      "periodo": "2023-10",
+      "total_mensajes": 6620,
+      "filas_csv": "19829-26448",
+      "vicente_mensajes": 3670,
+      "tania_mensajes": 2950,
+      "fecha_inicio": "2023-10-01 09:09:58",
+      "fecha_fin": "2023-10-31 21:50:58"
+    },
+    {
+      "periodo": "2023-11",
+      "total_mensajes": 7100,
+      "filas_csv": "26449-33548",
+      "vicente_mensajes": 3626,
+      "tania_mensajes": 3474,
+      "fecha_inicio": "2023-11-01 06:52:08",
+      "fecha_fin": "2023-11-30 18:00:54"
+    },
+    {
+      "periodo": "2023-12",
+      "total_mensajes": 1973,
+      "filas_csv": "33549-35521",
+      "vicente_mensajes": 1048,
+      "tania_mensajes": 925,
+      "fecha_inicio": "2023-12-01 06:34:33",
+      "fecha_fin": "2023-12-31 17:18:25"
+    },
+    {
+      "periodo": "2024-01",
+      "total_mensajes": 781,
+      "filas_csv": "35522-36302",
+      "vicente_mensajes": 373,
+      "tania_mensajes": 408,
+      "fecha_inicio": "2024-01-02 09:27:43",
+      "fecha_fin": "2024-01-31 16:25:49"
+    },
+    {
+      "periodo": "2024-02",
+      "total_mensajes": 2389,
+      "filas_csv": "36303-38691",
+      "vicente_mensajes": 1198,
+      "tania_mensajes": 1191,
+      "fecha_inicio": "2024-02-01 11:54:06",
+      "fecha_fin": "2024-02-29 18:56:47"
+    },
+    {
+      "periodo": "2024-03",
+      "total_mensajes": 1571,
+      "filas_csv": "38692-40262",
+      "vicente_mensajes": 808,
+      "tania_mensajes": 763,
+      "fecha_inicio": "2024-03-01 13:36:01",
+      "fecha_fin": "2024-03-31 09:27:35"
+    },
+    {
+      "periodo": "2024-04",
+      "total_mensajes": 4353,
+      "filas_csv": "40263-44615",
+      "vicente_mensajes": 2246,
+      "tania_mensajes": 2107,
+      "fecha_inicio": "2024-04-01 08:37:20",
+      "fecha_fin": "2024-04-30 18:40:40"
+    },
+    {
+      "periodo": "2024-05",
+      "total_mensajes": 914,
+      "filas_csv": "44616-45529",
+      "vicente_mensajes": 469,
+      "tania_mensajes": 445,
+      "fecha_inicio": "2024-05-01 09:43:47",
+      "fecha_fin": "2024-05-31 19:25:04"
+    },
+    {
+      "periodo": "2024-06",
+      "total_mensajes": 5015,
+      "filas_csv": "45530-50544",
+      "vicente_mensajes": 2744,
+      "tania_mensajes": 2271,
+      "fecha_inicio": "2024-06-01 09:14:35",
+      "fecha_fin": "2024-06-30 21:54:59"
+    },
+    {
+      "periodo": "2024-07",
+      "total_mensajes": 5533,
+      "filas_csv": "50545-56077",
+      "vicente_mensajes": 3049,
+      "tania_mensajes": 2484,
+      "fecha_inicio": "2024-07-01 06:04:31",
+      "fecha_fin": "2024-07-31 23:04:58"
+    },
+    {
+      "periodo": "2024-08",
+      "total_mensajes": 2983,
+      "filas_csv": "56078-59060",
+      "vicente_mensajes": 1583,
+      "tania_mensajes": 1400,
+      "fecha_inicio": "2024-08-01 06:09:38",
+      "fecha_fin": "2024-08-31 23:43:00"
+    },
+    {
+      "periodo": "2024-09",
+      "total_mensajes": 4685,
+      "filas_csv": "59061-63745",
+      "vicente_mensajes": 2502,
+      "tania_mensajes": 2183,
+      "fecha_inicio": "2024-09-01 09:33:50",
+      "fecha_fin": "2024-09-30 22:54:47"
+    },
+    {
+      "periodo": "2024-10",
+      "total_mensajes": 3139,
+      "filas_csv": "63746-66884",
+      "vicente_mensajes": 1675,
+      "tania_mensajes": 1464,
+      "fecha_inicio": "2024-10-03 15:58:10",
+      "fecha_fin": "2024-10-31 21:55:51"
+    },
+    {
+      "periodo": "2024-11",
+      "total_mensajes": 1906,
+      "filas_csv": "66885-68790",
+      "vicente_mensajes": 920,
+      "tania_mensajes": 986,
+      "fecha_inicio": "2024-11-02 09:19:09",
+      "fecha_fin": "2024-11-30 21:05:01"
+    },
+    {
+      "periodo": "2024-12",
+      "total_mensajes": 3047,
+      "filas_csv": "68791-71837",
+      "vicente_mensajes": 1585,
+      "tania_mensajes": 1462,
+      "fecha_inicio": "2024-12-01 00:35:15",
+      "fecha_fin": "2024-12-31 19:34:13"
+    },
+    {
+      "periodo": "2025-01",
+      "total_mensajes": 2991,
+      "filas_csv": "71838-74828",
+      "vicente_mensajes": 1594,
+      "tania_mensajes": 1397,
+      "fecha_inicio": "2025-01-01 01:19:19",
+      "fecha_fin": "2025-01-31 22:12:46"
+    },
+    {
+      "periodo": "2025-02",
+      "total_mensajes": 3121,
+      "filas_csv": "74829-77949",
+      "vicente_mensajes": 1657,
+      "tania_mensajes": 1464,
+      "fecha_inicio": "2025-02-02 08:32:37",
+      "fecha_fin": "2025-02-28 22:02:51"
+    },
+    {
+      "periodo": "2025-03",
+      "total_mensajes": 2070,
+      "filas_csv": "77950-80019",
+      "vicente_mensajes": 1143,
+      "tania_mensajes": 927,
+      "fecha_inicio": "2025-03-01 07:06:40",
+      "fecha_fin": "2025-03-31 21:09:56"
+    },
+    {
+      "periodo": "2025-04",
+      "total_mensajes": 2289,
+      "filas_csv": "80020-82308",
+      "vicente_mensajes": 1365,
+      "tania_mensajes": 924,
+      "fecha_inicio": "2025-04-01 08:52:36",
+      "fecha_fin": "2025-04-30 20:02:55"
+    },
+    {
+      "periodo": "2025-05",
+      "total_mensajes": 1000,
+      "filas_csv": "82309-83308",
+      "vicente_mensajes": 588,
+      "tania_mensajes": 412,
+      "fecha_inicio": "2025-05-01 08:33:16",
+      "fecha_fin": "2025-05-31 22:00:14"
+    },
+    {
+      "periodo": "2025-06",
+      "total_mensajes": 2347,
+      "filas_csv": "83309-85655",
+      "vicente_mensajes": 1372,
+      "tania_mensajes": 975,
+      "fecha_inicio": "2025-06-01 05:28:10",
+      "fecha_fin": "2025-06-30 13:36:44"
+    },
+    {
+      "periodo": "2025-07",
+      "total_mensajes": 182,
+      "filas_csv": "85656-85837",
+      "vicente_mensajes": 103,
+      "tania_mensajes": 79,
+      "fecha_inicio": "2025-07-01 07:11:31",
+      "fecha_fin": "2025-07-31 20:30:40"
+    },
+    {
+      "periodo": "2025-08",
+      "total_mensajes": 3,
+      "filas_csv": "85838-85840",
+      "vicente_mensajes": 3,
+      "tania_mensajes": 0,
+      "fecha_inicio": "2025-08-08 09:14:50",
+      "fecha_fin": "2025-08-31 11:21:08"
+    },
+    {
+      "periodo": "2025-09",
+      "total_mensajes": 38,
+      "filas_csv": "85841-85878",
+      "vicente_mensajes": 25,
+      "tania_mensajes": 13,
+      "fecha_inicio": "2025-09-10 09:02:22",
+      "fecha_fin": "2025-09-30 08:29:53"
+    },
+    {
+      "periodo": "2025-10",
+      "total_mensajes": 132,
+      "filas_csv": "85879-86010",
+      "vicente_mensajes": 66,
+      "tania_mensajes": 66,
+      "fecha_inicio": "2025-10-01 08:57:22",
+      "fecha_fin": "2025-10-04 12:18:08"
+    }
+  ]
+}
